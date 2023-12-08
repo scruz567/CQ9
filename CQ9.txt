@@ -1,0 +1,9 @@
+CQ9 Analysis
+
+Weighted Uniform Strings
+Time: O(n^2)
+Space: O(n)
+
+MiniMaxSUM
+Time: O(n log n) //used built-in sorting
+Space: O(1)
